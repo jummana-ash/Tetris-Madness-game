@@ -11,6 +11,7 @@ import java.awt.event.KeyEvent;
 import java.awt.*;
 import javax.swing.*;
 
+// test commit
 public class Tetris extends JFrame implements GGActListener {
     public static final String statisticsFilePath = "statistics.txt";
     private Actor currentBlock = null;  // Currently active block
