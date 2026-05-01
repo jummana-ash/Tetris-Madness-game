@@ -6,14 +6,19 @@ import ch.aplu.jgamegrid.*;
 public class TetroBlock extends Actor {
     private Location[] relativeLocation = new Location[4];
 
-    // Display a single square in a Tetris piece
+    // Display a single square in a tetris piece
     public TetroBlock(int blockId, Location[] relativeLocation) {
         super("sprites/tetroblock" + blockId + ".gif");
         this.relativeLocation = relativeLocation.clone();
     }
 
     public Location getRelativeLocation(int rotationId) {
+        // rotation check
+        if (rotationId >= relativeLocation.length) {
+            return relativeLocation[0];  // non-rotatable pieces
+        }
         return relativeLocation[rotationId];
+
     }
 
     /**

@@ -1,1 +1,13 @@
-Statistics File
+Round #1
+Score: 2
+I: 11
+J: 0
+L: 0
+O: 1
+S: 1
+T: 4
+Z: 0
+X: 0
++: 0
+/: 0
+-----

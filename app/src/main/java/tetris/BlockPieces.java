@@ -3,8 +3,11 @@ package tetris;
 /**
  * The enum to repsent different block pieces and have different attributes for each block piece
  */
+
+// adding the new block pieces
 public enum BlockPieces {
-    I(0, "I"), J(1, "J"), L(2, "L"), O(3, "O"), S(4, "S"), T(5, "T"), Z(6, "Z");
+    I(0, "I"), J(1, "J"), L(2, "L"), O(3, "O"), S(4, "S"), T(5, "T"), Z(6, "Z"),
+    CROSS(7, "X"), PLUS(8, "+"), SLASH(9, "/");
 
     private int blockIndex = -1;
     private String blockName = "";
