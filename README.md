@@ -4,9 +4,9 @@
  ## Team Members
 - Jummana Al-Shimary, jalshimary@student.unimelb.edu.au, @jummana-ash
 - Ishaan Kesarla, ikesarla@student.unimelb.edu.au, @ishkes
-- Jia Jindal, jjindal@student.unimelb.edu.au, @
+- Jia Jindal, jjindal@student.unimelb.edu.au, @jjindal
 
  ## Documentation files
-- Link to Draw.io 
-- Link to Google doc
+- Documentation/FinalDesignModelP1.drawio.pdf
+- Documentation/FinalDomainModelP1.drawio.pdf
 # Project1-Draft
