@@ -2,9 +2,9 @@
 *The information below is not part of the submission but is encouraged to provide*
 
  ## Team Members
-- Name, Email, @GitHub account
-- Name, Email, @GitHub account
-- Name, Email, @GitHub account
+- Jummana Al-Shimary, jalshimary@student.unimelb.edu.au, @jummana-ash
+- Ishaan Kesarla, ikesarla@student.unimelb.edu.au, @ishkes
+- Jia Jindal, jjindal@student.unimelb.edu.au, @
 
  ## Documentation files
 - Link to Draw.io 
