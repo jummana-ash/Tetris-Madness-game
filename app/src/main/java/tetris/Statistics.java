@@ -52,5 +52,6 @@ public class Statistics {
             pieceCounts.put(piece, 0);
         }
     }
+    // git test
 }
 
